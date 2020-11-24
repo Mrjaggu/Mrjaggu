@@ -6,7 +6,7 @@
 <a href="https://medium.com/@jangidajay271" target="_blank"><img src="https://miro.medium.com/max/500/1*Ra88BZ-CSTovFS2ZSURBgg.png?&style=flat-square&logo=linkedin&logoColor=white" alt="Medium" height=25></a> 
 
 
-Here are some ideas to get you started:
+Little bit more about me:
 
 - 🔭 I’m currently working on semantic and personalized recommendation engine.
 - 🌱 I’m currently learning state of the art Models: Bert, Transformers

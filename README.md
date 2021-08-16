@@ -8,9 +8,9 @@
 
 Little bit more about me:
 
-- 🔭 I’m currently working on semantic and personalized recommendation engine.
-- 🌱 I’m currently learning state of the art Models: Bert, Transformers
-- 👯 I’m looking to collaborate on chatbot, Recommendation System.
+- 🔭 I’m currently working on Information Retrieval and Extraction.
+- 🌱 I’m currently learning state of the art Models: Bert, Transformers..
+- 👯 I’m looking to collaborate on NLP, Recommendation System.
 - 🤔 I’m looking for help with chatbot project which you can find in my repo, got some ideas and more features need to implement it. 
 - 💬 Ask me about Artificial intelligence.
 - 📫 How to reach me: jangidajay271@gmail.com

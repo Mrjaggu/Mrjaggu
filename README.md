@@ -16,3 +16,6 @@ Little bit more about me:
 - 📫 How to reach me: jangidajay271@gmail.com
 - 😄 Pronouns: Not yet .. ha ha
 - ⚡ Fun fact: You will find be interesting with some creative ideas.
+
+[![Ajay GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrjaggu)](https://github.com/Mrjaggu/github-readme-stats)
+

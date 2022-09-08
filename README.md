@@ -8,9 +8,9 @@
 
 Little bit more about me:
 
-- 🔭 I’m currently working on Information Retrieval and Extraction.
+- 🔭 I’m currently working on Search, Information Retrieval and Extraction.
 - 🌱 I’m currently into learning and implementing state of the art Models: Bert, Transformers..
-- 👯 I’m looking to collaborate on NLP, Recommendation System.
+- 👯 I’m looking to collaborate on  NLP, Recommendation Engine, Ranking problem, search , ML too.
 - 🤔 I’m looking for help with Information Extraction project. 
 - 💬 Ask me about Artificial intelligence.
 - 📫 How to reach me: jangidajay271@gmail.com
